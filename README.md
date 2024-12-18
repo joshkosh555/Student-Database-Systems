@@ -2,7 +2,7 @@ Make sure to have an account to the school to access this.
 
 ![image](https://github.com/user-attachments/assets/abf7516b-2250-4092-89d9-d9baf0d9bed1)
 
-================================================================================
+============================================================================
 
 After logging in, you should now be able to use the Student Information System.
 
