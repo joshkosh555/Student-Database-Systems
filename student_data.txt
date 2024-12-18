@@ -1,0 +1,14 @@
+Justine, 17, 2007-2-23456, justin@gmail.com, 09123456789
+Renzo, 22, 2023-2-02581, 2023-2-02581@lpunetwork.edu.ph, 09234567890
+Frank, 19, 2023-2-00837, 2023-2-00837@lpunetwork.edu.ph, 09345678901
+Cheilou, 19, 2023-2-00487, 2023-2-00487@lpunetwork.edu.ph, 09456789012
+Shan, 20, 2023-2-01657, 2023-2-01657@lpunetwork.edu.ph, 09567890123
+Ben, 22, 2023-2-23456, 2023-2-23456@lpunetwork.edu.ph, 09678901234
+Jassim, 18, 2023-2-23457, 2023-2-23456@lpunetwork.edu.ph, 09789012345
+Jared, 19, 2023-2-023458, 2023-2-023456@lpunetwork.edu.ph, 09890123456
+Louise, 19, 2023-2-00995, 2023-2-00995@lpunetwork.edu.ph, 09901234567
+Lhanz, 20, 2023-2-00714, 2023-2-00714@lpunetwork.edu.ph, 09012345678
+WalterWhite, 58, 2000, walterwhite101@ilovemath.com, 123-456-789
+Neymar, 21, 2005-5-5555, ilovefootball@yahoo.com, 69
+testingpurposes, 1, 1, 1, 1
+Dino, 53, 2023-1-00001, dino@yahoo.com, 69
